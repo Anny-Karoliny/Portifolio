@@ -199,7 +199,7 @@ body{
 }
 
 
-.myonix1 h3 a:hover,.myonix2 h3 a:hover{
+.myonix1 h3 a:hover , .myonix2 h3 a:hover{
     text-decoration: underline;
 
 }
