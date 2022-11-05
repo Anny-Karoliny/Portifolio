@@ -193,6 +193,16 @@ body{
     
 }
 
+.myonix1 h3 a, .myonix2 h3 a{
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+
+.myonix1 h3 a:hover,.myonix2 h3 a:hover{
+    text-decoration: underline;
+
+}
 
 .onix .description{
     margin-top: 20px;
